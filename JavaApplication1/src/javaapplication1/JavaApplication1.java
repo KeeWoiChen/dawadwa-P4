@@ -18,5 +18,8 @@ public class JavaApplication1 {
         // TODO code application logic here
         //ajga
     }
+    public void abc(){
+        
+    }
     
 }

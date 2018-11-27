@@ -21,5 +21,8 @@ public class JavaApplication1 {
     public void abc(){
         
     }
+    public void abcd(){
+        
+    }
     
 }
